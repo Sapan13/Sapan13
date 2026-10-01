@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shivam%20Prasad&fontSize=54&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Principal%20Data%20Scientist%20%C2%B7%20Generative%20AI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLMOps&descAlignY=54&descSize=16" width="100%" alt="Shivam Prasad" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sapan%20Kumar%20Das&fontSize=54&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Principal%20Data%20Scientist%20%C2%B7%20Generative%20AI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLMOps&descAlignY=54&descSize=16" width="100%" alt="Shivam Prasad" />
 
 <a href="https://www.linkedin.com/in/shivam13juna/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00D9FF&center=true&vCenter=true&width=780&lines=Building+agentic+AI+that+actually+ships+to+production;8%2B+years+turning+research+papers+into+revenue;LLMs+%C2%B7+RAG+%C2%B7+LLMOps+%C2%B7+Multimodal+%C2%B7+Deep+Learning;Finding+patterns+in+the+biggest+dataset+out+there%3A+my+life+%3B)" alt="What I do" />
