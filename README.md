@@ -8,11 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/shivam13juna/)
-[![Upwork](https://img.shields.io/badge/Upwork%20Top--Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012a4e052e35894ba0)
-[![Email](https://img.shields.io/badge/shivam13juna@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam13juna@gmail.com)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shivam13juna)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](www.linkedin.com/in/sapan-das-559221120)
+[![Email](https://img.shields.io/badge/er.sapandas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.sapandas@gmail.com)
 </div>
 
 ---
